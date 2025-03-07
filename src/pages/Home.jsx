@@ -52,7 +52,7 @@ const Home = () => {
         <div className="hero bg-base-200 min-h-screen">
           <div className="hero-content flex-col lg:flex-row-reverse">
             <img
-              src="/public/front-image.png"
+              src="front-image.png"
               className=" rounded-lg max-w-xl h-80 md:max-w-lg"
             />
             <div className="text-center md:text-left">

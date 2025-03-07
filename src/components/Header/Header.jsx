@@ -20,7 +20,7 @@ const Header = () => {
         <Link to="/">
           <img
             className="m-2"
-            src="/public/thought.png"
+            src="thought.png"
             width="50px"
             height="30px"
           />
